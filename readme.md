@@ -1,6 +1,6 @@
 # Machine Learning Course &nbsp;–&nbsp;  Assignments
 
-*A curated collection of hands-on notebooks (except the final project) from the university **machine_learning** course I intended in university.  
+*A curated collection of hands-on notebooks (except the final project) from the university **machine_learning** course I intended.  
 Theory-only (“paper”) assignments are also stored in the repo, but this README focuses on the four practical assigments each including several labs.*
 
 ---
